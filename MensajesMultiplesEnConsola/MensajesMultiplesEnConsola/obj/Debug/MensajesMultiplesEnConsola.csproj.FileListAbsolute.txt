@@ -1,0 +1,8 @@
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\MensajesMultiplesEnConsola\MensajesMultiplesEnConsola\bin\Debug\MensajesMultiplesEnConsola.exe.config
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\MensajesMultiplesEnConsola\MensajesMultiplesEnConsola\bin\Debug\MensajesMultiplesEnConsola.exe
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\MensajesMultiplesEnConsola\MensajesMultiplesEnConsola\bin\Debug\MensajesMultiplesEnConsola.pdb
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\MensajesMultiplesEnConsola\MensajesMultiplesEnConsola\obj\Debug\MensajesMultiplesEnConsola.csproj.AssemblyReference.cache
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\MensajesMultiplesEnConsola\MensajesMultiplesEnConsola\obj\Debug\MensajesMultiplesEnConsola.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\MensajesMultiplesEnConsola\MensajesMultiplesEnConsola\obj\Debug\MensajesMultiplesEnConsola.csproj.CoreCompileInputs.cache
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\MensajesMultiplesEnConsola\MensajesMultiplesEnConsola\obj\Debug\MensajesMultiplesEnConsola.exe
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\MensajesMultiplesEnConsola\MensajesMultiplesEnConsola\obj\Debug\MensajesMultiplesEnConsola.pdb
