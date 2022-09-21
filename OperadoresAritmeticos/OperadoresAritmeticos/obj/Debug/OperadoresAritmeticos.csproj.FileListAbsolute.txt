@@ -1,0 +1,8 @@
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\OperadoresAritmeticos.exe.config
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\OperadoresAritmeticos.exe
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\OperadoresAritmeticos.pdb
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.csproj.AssemblyReference.cache
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.exe
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.pdb
