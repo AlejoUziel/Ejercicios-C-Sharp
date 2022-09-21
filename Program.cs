@@ -4,20 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MensajesMultiplesEnConsola
+namespace HolaMundo
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            /* cree dos mensajes en consola.
-             1. cree el proximo mensaje "Hola"
-             2. cree un segundo mensaje con tu nombre*/
+            /* ejercicio:1
+             cree un mensaje en la consola, el mensaje debe ser: Hola Mundo!  */
 
-            Console.WriteLine("Hola!");
-            Console.WriteLine("Alejandro");
-            Console.ReadKey();
-
+            Console.WriteLine("Hola Mundo!"); /* crea un mensaje en la consola */
+            Console.ReadKey(); /* mantiene la consola abierta */
         }
     }
 }
