@@ -1,0 +1,8 @@
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\EntradaDeDatos\EntradaDeDatos\bin\Debug\EntradaDeDatos.exe.config
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\EntradaDeDatos\EntradaDeDatos\bin\Debug\EntradaDeDatos.exe
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\EntradaDeDatos\EntradaDeDatos\bin\Debug\EntradaDeDatos.pdb
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\EntradaDeDatos\EntradaDeDatos\obj\Debug\EntradaDeDatos.csproj.AssemblyReference.cache
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\EntradaDeDatos\EntradaDeDatos\obj\Debug\EntradaDeDatos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\EntradaDeDatos\EntradaDeDatos\obj\Debug\EntradaDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\EntradaDeDatos\EntradaDeDatos\obj\Debug\EntradaDeDatos.exe
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\EntradaDeDatos\EntradaDeDatos\obj\Debug\EntradaDeDatos.pdb
