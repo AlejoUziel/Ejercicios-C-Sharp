@@ -1,0 +1,8 @@
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\condiciones 3\condiciones 3\bin\Debug\condiciones 3.exe.config
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\condiciones 3\condiciones 3\bin\Debug\condiciones 3.exe
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\condiciones 3\condiciones 3\bin\Debug\condiciones 3.pdb
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\condiciones 3\condiciones 3\obj\Debug\condiciones 3.csproj.AssemblyReference.cache
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\condiciones 3\condiciones 3\obj\Debug\condiciones 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\condiciones 3\condiciones 3\obj\Debug\condiciones 3.csproj.CoreCompileInputs.cache
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\condiciones 3\condiciones 3\obj\Debug\condiciones 3.exe
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\condiciones 3\condiciones 3\obj\Debug\condiciones 3.pdb
