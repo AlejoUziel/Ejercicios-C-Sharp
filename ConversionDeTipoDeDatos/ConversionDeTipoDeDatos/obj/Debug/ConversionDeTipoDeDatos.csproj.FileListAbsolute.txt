@@ -1,0 +1,8 @@
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\ConversionDeTipoDeDatos\ConversionDeTipoDeDatos\bin\Debug\ConversionDeTipoDeDatos.exe.config
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\ConversionDeTipoDeDatos\ConversionDeTipoDeDatos\bin\Debug\ConversionDeTipoDeDatos.exe
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\ConversionDeTipoDeDatos\ConversionDeTipoDeDatos\bin\Debug\ConversionDeTipoDeDatos.pdb
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\ConversionDeTipoDeDatos\ConversionDeTipoDeDatos\obj\Debug\ConversionDeTipoDeDatos.csproj.AssemblyReference.cache
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\ConversionDeTipoDeDatos\ConversionDeTipoDeDatos\obj\Debug\ConversionDeTipoDeDatos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\ConversionDeTipoDeDatos\ConversionDeTipoDeDatos\obj\Debug\ConversionDeTipoDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\ConversionDeTipoDeDatos\ConversionDeTipoDeDatos\obj\Debug\ConversionDeTipoDeDatos.exe
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\ConversionDeTipoDeDatos\ConversionDeTipoDeDatos\obj\Debug\ConversionDeTipoDeDatos.pdb
