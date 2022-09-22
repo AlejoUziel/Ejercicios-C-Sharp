@@ -1,0 +1,8 @@
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\bucles 2\bucles 2\bin\Debug\bucles 2.exe.config
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\bucles 2\bucles 2\bin\Debug\bucles 2.exe
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\bucles 2\bucles 2\bin\Debug\bucles 2.pdb
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\bucles 2\bucles 2\obj\Debug\bucles 2.csproj.AssemblyReference.cache
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\bucles 2\bucles 2\obj\Debug\bucles 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\bucles 2\bucles 2\obj\Debug\bucles 2.csproj.CoreCompileInputs.cache
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\bucles 2\bucles 2\obj\Debug\bucles 2.exe
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\bucles 2\bucles 2\obj\Debug\bucles 2.pdb
