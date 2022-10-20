@@ -1,0 +1,11 @@
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\GeneradorContraseña\bin\Debug\GeneradorContraseña.exe.config
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\GeneradorContraseña\bin\Debug\GeneradorContraseña.exe
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\GeneradorContraseña\bin\Debug\GeneradorContraseña.pdb
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\GeneradorContraseña\obj\Debug\GeneradorContraseña.csproj.AssemblyReference.cache
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\GeneradorContraseña\obj\Debug\GeneradorContraseña.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\GeneradorContraseña\obj\Debug\GeneradorContraseña.Form1.resources
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\GeneradorContraseña\obj\Debug\GeneradorContraseña.Properties.Resources.resources
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\GeneradorContraseña\obj\Debug\GeneradorContraseña.csproj.GenerateResource.cache
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\GeneradorContraseña\obj\Debug\GeneradorContraseña.csproj.CoreCompileInputs.cache
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\GeneradorContraseña\obj\Debug\GeneradorContraseña.exe
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\GeneradorContraseña\obj\Debug\GeneradorContraseña.pdb
