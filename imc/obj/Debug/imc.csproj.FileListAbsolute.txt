@@ -1,0 +1,11 @@
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\imc\bin\Debug\imc.exe.config
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\imc\bin\Debug\imc.exe
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\imc\bin\Debug\imc.pdb
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\imc\obj\Debug\imc.csproj.AssemblyReference.cache
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\imc\obj\Debug\imc.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\imc\obj\Debug\imc.Form1.resources
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\imc\obj\Debug\imc.Properties.Resources.resources
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\imc\obj\Debug\imc.csproj.GenerateResource.cache
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\imc\obj\Debug\imc.csproj.CoreCompileInputs.cache
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\imc\obj\Debug\imc.exe
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\imc\obj\Debug\imc.pdb
