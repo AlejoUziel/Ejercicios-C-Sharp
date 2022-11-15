@@ -1,0 +1,17 @@
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\Mayusculas_Y_Minusculas\bin\Debug\net6.0-windows\Mayusculas_Y_Minusculas.exe
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\Mayusculas_Y_Minusculas\bin\Debug\net6.0-windows\Mayusculas_Y_Minusculas.deps.json
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\Mayusculas_Y_Minusculas\bin\Debug\net6.0-windows\Mayusculas_Y_Minusculas.runtimeconfig.json
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\Mayusculas_Y_Minusculas\bin\Debug\net6.0-windows\Mayusculas_Y_Minusculas.dll
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\Mayusculas_Y_Minusculas\bin\Debug\net6.0-windows\Mayusculas_Y_Minusculas.pdb
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\Mayusculas_Y_Minusculas\obj\Debug\net6.0-windows\Mayusculas_Y_Minusculas.csproj.AssemblyReference.cache
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\Mayusculas_Y_Minusculas\obj\Debug\net6.0-windows\Mayusculas_Y_Minusculas.Form1.resources
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\Mayusculas_Y_Minusculas\obj\Debug\net6.0-windows\Mayusculas_Y_Minusculas.csproj.GenerateResource.cache
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\Mayusculas_Y_Minusculas\obj\Debug\net6.0-windows\Mayusculas_Y_Minusculas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\Mayusculas_Y_Minusculas\obj\Debug\net6.0-windows\Mayusculas_Y_Minusculas.AssemblyInfoInputs.cache
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\Mayusculas_Y_Minusculas\obj\Debug\net6.0-windows\Mayusculas_Y_Minusculas.AssemblyInfo.cs
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\Mayusculas_Y_Minusculas\obj\Debug\net6.0-windows\Mayusculas_Y_Minusculas.csproj.CoreCompileInputs.cache
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\Mayusculas_Y_Minusculas\obj\Debug\net6.0-windows\Mayusculas_Y_Minusculas.dll
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\Mayusculas_Y_Minusculas\obj\Debug\net6.0-windows\refint\Mayusculas_Y_Minusculas.dll
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\Mayusculas_Y_Minusculas\obj\Debug\net6.0-windows\Mayusculas_Y_Minusculas.pdb
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\Mayusculas_Y_Minusculas\obj\Debug\net6.0-windows\Mayusculas_Y_Minusculas.genruntimeconfig.cache
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\Mayusculas_Y_Minusculas\obj\Debug\net6.0-windows\ref\Mayusculas_Y_Minusculas.dll
