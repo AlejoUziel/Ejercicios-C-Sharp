@@ -1,0 +1,17 @@
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\CalcularNomina\bin\Debug\net6.0-windows\CalcularNomina.exe
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\CalcularNomina\bin\Debug\net6.0-windows\CalcularNomina.deps.json
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\CalcularNomina\bin\Debug\net6.0-windows\CalcularNomina.runtimeconfig.json
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\CalcularNomina\bin\Debug\net6.0-windows\CalcularNomina.dll
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\CalcularNomina\bin\Debug\net6.0-windows\CalcularNomina.pdb
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\CalcularNomina\obj\Debug\net6.0-windows\CalcularNomina.csproj.AssemblyReference.cache
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\CalcularNomina\obj\Debug\net6.0-windows\CalcularNomina.Form1.resources
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\CalcularNomina\obj\Debug\net6.0-windows\CalcularNomina.csproj.GenerateResource.cache
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\CalcularNomina\obj\Debug\net6.0-windows\CalcularNomina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\CalcularNomina\obj\Debug\net6.0-windows\CalcularNomina.AssemblyInfoInputs.cache
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\CalcularNomina\obj\Debug\net6.0-windows\CalcularNomina.AssemblyInfo.cs
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\CalcularNomina\obj\Debug\net6.0-windows\CalcularNomina.csproj.CoreCompileInputs.cache
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\CalcularNomina\obj\Debug\net6.0-windows\CalcularNomina.dll
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\CalcularNomina\obj\Debug\net6.0-windows\refint\CalcularNomina.dll
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\CalcularNomina\obj\Debug\net6.0-windows\CalcularNomina.pdb
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\CalcularNomina\obj\Debug\net6.0-windows\CalcularNomina.genruntimeconfig.cache
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\CalcularNomina\obj\Debug\net6.0-windows\ref\CalcularNomina.dll
