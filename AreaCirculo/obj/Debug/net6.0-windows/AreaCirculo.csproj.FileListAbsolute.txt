@@ -1,0 +1,17 @@
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\AreaCirculo\bin\Debug\net6.0-windows\AreaCirculo.exe
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\AreaCirculo\bin\Debug\net6.0-windows\AreaCirculo.deps.json
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\AreaCirculo\bin\Debug\net6.0-windows\AreaCirculo.runtimeconfig.json
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\AreaCirculo\bin\Debug\net6.0-windows\AreaCirculo.dll
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\AreaCirculo\bin\Debug\net6.0-windows\AreaCirculo.pdb
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\AreaCirculo\obj\Debug\net6.0-windows\AreaCirculo.csproj.AssemblyReference.cache
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\AreaCirculo\obj\Debug\net6.0-windows\AreaCirculo.Form1.resources
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\AreaCirculo\obj\Debug\net6.0-windows\AreaCirculo.csproj.GenerateResource.cache
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\AreaCirculo\obj\Debug\net6.0-windows\AreaCirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\AreaCirculo\obj\Debug\net6.0-windows\AreaCirculo.AssemblyInfoInputs.cache
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\AreaCirculo\obj\Debug\net6.0-windows\AreaCirculo.AssemblyInfo.cs
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\AreaCirculo\obj\Debug\net6.0-windows\AreaCirculo.csproj.CoreCompileInputs.cache
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\AreaCirculo\obj\Debug\net6.0-windows\AreaCirculo.dll
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\AreaCirculo\obj\Debug\net6.0-windows\refint\AreaCirculo.dll
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\AreaCirculo\obj\Debug\net6.0-windows\AreaCirculo.pdb
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\AreaCirculo\obj\Debug\net6.0-windows\AreaCirculo.genruntimeconfig.cache
+C:\Users\Alejo\Desktop\EJERCICIOS C#\GUIA C#\AreaCirculo\obj\Debug\net6.0-windows\ref\AreaCirculo.dll
